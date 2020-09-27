@@ -1,3 +1,6 @@
 初めてGITを使います
 
 基本的な操作を学ぶ
+
+・git add
+・git commit
