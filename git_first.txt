@@ -6,3 +6,5 @@
 ・git commit
 ・git rm
 rm⇒remove
+
+・git status
